@@ -1,3 +1,7 @@
 Changement 1
 Changement 2
+<<<<<<< HEAD
 Modification conflictuelle
+=======
+Changement sur nouvelle branche
+>>>>>>> nouvelle_branche
